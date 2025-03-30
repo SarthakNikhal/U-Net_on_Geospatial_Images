@@ -2,6 +2,8 @@
 
 #### Overview
 This repository contains the implementation of a U-Net model for geospatial image segmentation. The model is designed to efficiently segment satellite or aerial imagery, making it useful for applications such as land cover classification, change detection, and feature extraction.
+![image](https://github.com/user-attachments/assets/07ed9e9f-bead-418c-8c25-305b24edd701)
+
 
 #### Features
 - U-Net architecture for precise segmentation of geospatial images
@@ -44,6 +46,14 @@ The project follows these steps:
 
 You can install these using the following command:
 `pip install segmentation_models rasterio geopandas contextily tensorflow==2.15`
+
+## Tech Stack
+![image](https://github.com/user-attachments/assets/8165d399-6dc9-481a-89bd-39e0842b145c)
+![image](https://github.com/user-attachments/assets/d69d5e2d-40df-43e7-afb4-d85855a5098f)
+![image](https://github.com/user-attachments/assets/ed828aa2-1659-4c32-bf24-6764a35c3719)
+![image](https://github.com/user-attachments/assets/f84c96ff-cfda-468e-bb7c-5be7b49f5be3)
+![image](https://github.com/user-attachments/assets/9f329e9a-0b9a-40b5-9c6f-f866644bbbcc)
+
 
 
 Reference:
